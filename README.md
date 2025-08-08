@@ -13,7 +13,7 @@
 ```javascript
 const civaa = {
   code: [Python, C, HTML, CSS],
-  human_languages: [
+  languages: [
     { language: "English", status: "fluent", flag: "🇬🇧" },
     { language: "Portuguese", status: "fluent", flag: "🇵🇹" },
     { language: "German", status: "learning", flag: "🇩🇪" },
@@ -23,7 +23,7 @@ const civaa = {
   aboutMe: {
                         age: 19,
                         location: "Mozambique",
-                        mentor: "EducaTRANSforma"
+                        mentor: "El Shaddai"
                       },
  quote: "I turn losses into lesssons, lessons into leadership and leadership into legacy"
 }
