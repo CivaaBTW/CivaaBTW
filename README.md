@@ -12,7 +12,7 @@
 
 ```javascript
 const civaa = {
-  code: [Python, C, HTML, CSS],
+  code: [Python, C],
   languages: [
     { language: "English", status: "fluent", flag: "🇬🇧" },
     { language: "Portuguese", status: "fluent", flag: "🇵🇹" },
